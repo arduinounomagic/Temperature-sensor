@@ -2,8 +2,10 @@
 *How to use temperature sensor with Arduino Uno (with serial monitor)
 *This code describes how temperature sensor works with the help of Arduino Uno to display temperature in celsius and fahrenheit on serial monitor.
 *
+*https://www.arduinounomagic.com/2019/01/how-to-use-temperature-sensor-with.html
+*
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 
 
