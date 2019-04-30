@@ -2,8 +2,10 @@
 *How to use temperature sensor with Arduino uno (with LCD)
 *This video describes how to use temperature sensor with arduino uno to display measured temperature in Celsius and Fahrenheit something on LCD.
 *
+*for more detail please visit:https://www.arduinounomagic.com/2019/01/how-to-use-temperature-sensor-with.html
+*
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 
 #include<LiquidCrystal.h>
